@@ -1,3 +1,7 @@
 1.	Change your system, global and repository config (add some values). Inspect how it is override.
 2.	Add some aliases in your own opinion.
 3.	Make init commit.
+4.	Create develop branch. Checkout on it.
+5.	Create index.html empty file. Commit.
+6.	Create branch with any name. Checkout on it. Add some images folder with images inside it. Commit.
+7.	Change your index.html. Add some image src inside it. Commit.
